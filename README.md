@@ -63,7 +63,7 @@ jdh-video-abstracts/
 
 2. **Get this repository.** In a terminal, go to where you want the folder and run:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/biumiamy/jdh-video-abstracts.git
    ```
    ```bash
    cd jdh-video-abstracts
