@@ -1,0 +1,14 @@
+# Music: licensed for use inside the videos only, never shared on its own.
+# Download "Birds" by Corbyn Kites from the YouTube Audio Library into music/ (see music/README.txt).
+music/*.mp3
+
+# Rendered output and previews (anyone can re-create them with tools/render.py and tools/still.py)
+*.mp4
+stills/
+still_*.png
+
+# Python / system clutter
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
